@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 Feb 2021 01:40:47 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[testest]]></title>
+            <description><![CDATA[<h1 id="hello-test">Hello test</h1>
+<p>test text</p>
+]]></description>
+            <link>post/testest</link>
+            <guid isPermaLink="true">post/testest</guid>
+            <pubDate>Wed, 03 Feb 2021 01:35:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
